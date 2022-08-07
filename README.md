@@ -14,3 +14,9 @@ Este bootcamp possui duração de de 6 meses, somando um total de 420 horas de c
 ## Ementas e projetos
 
 - [ ] [Ementa](./ementa.md)
+- [ ] [Desafio 1.1 - Encriptador]()
+- [ ] [Desafio 1.2 - Jogo da Forca]()
+- [ ] [Desafio 2.1 - Portfólio]()
+- [ ] [Desafio 2.2 - eCommerce]()
+- [ ] [Desafio 3.1 - Conversor de Moedas]()
+- [ ] [Desafio 3.2 - Hotel Alura]()

@@ -1,0 +1,19 @@
+<canvas width="600" height="400"></canvas>
+
+<script>
+	//code da bandeira nacional
+	//code da bandeira alemã
+	
+	var mostraBrasil = true;
+
+	function trocaBandeira() {
+		if (mostraBrasil) {
+			desenhaBandeiraBrasil();
+		} else {
+			desenhaBandeiraAlemanha();
+		}
+		mostraBrasil = !mostraBrasil;
+	}
+
+	setInterval(trocaBandeira, 3000);
+</script>
